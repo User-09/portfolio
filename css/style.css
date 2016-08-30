@@ -200,6 +200,7 @@ footer {
   .navbar-default .navbar-toggle {
     border: 0;
     background: transparent;
+    font-size: 1.5em;
   }
   .navbar-default .navbar-toggle:hover {
     border: 0;
