@@ -181,7 +181,7 @@ footer {
 }
 @media only screen and (max-width: 480px) {
   #mobile {
-    font-size: 1.25em;
+    font-size: 1.75em;
   }
   #about-content {
     padding: 0;
