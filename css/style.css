@@ -180,6 +180,9 @@ footer {
   color: #ffffff;
 }
 @media only screen and (max-width: 480px) {
+  #profile-pic {
+    text-align: center;
+  }
   #mobile {
     font-size: 1.75em;
   }
