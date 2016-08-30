@@ -180,6 +180,9 @@ footer {
   color: #ffffff;
 }
 @media only screen and (max-width: 480px) {
+  #mobile {
+    font-size: 1.25em;
+  }
   #about-content {
     padding: 0;
   }
@@ -200,7 +203,6 @@ footer {
   .navbar-default .navbar-toggle {
     border: 0;
     background: transparent;
-    font-size: 1.5em;
   }
   .navbar-default .navbar-toggle:hover {
     border: 0;
